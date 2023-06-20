@@ -4,9 +4,6 @@ import contact from "../Images/contact-us.png";
 const Contact = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
-        // Perform any necessary form submission logic here
-
-        // Display an alert message after a delay of 1 second
         setTimeout(() => {
             alert("Response recorded successfully!");
 
