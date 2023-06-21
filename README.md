@@ -58,7 +58,7 @@ Cinematica is a comprehensive movie database platform that provides extensive de
 
 ## Contributing
 
-We welcome contributions to improve the Canteen Management System. If you would like to contribute, please follow these steps:
+We welcome contributions to improve the Cinematica. If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 
